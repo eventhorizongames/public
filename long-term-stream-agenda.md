@@ -1,3 +1,8 @@
+---
+layout: default
+title: Long Term Stream Agenda
+---
+
 - Create Tech Demo of GDK
 - GDK Tech Demo Must Have's
     - Companions 
