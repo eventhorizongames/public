@@ -5,9 +5,13 @@ title: Home
 
 <!-- Show last 5 posts here -->
 {% for page in site.pages %}
-	<div class="page-link">
-                <a href="{{site.baseurl}}{{page.url}}">
-                	{{page.title}}
-		</a>
-	</div>
+	{% if page.name != "index.html" %} 
+		<div class="page-link">
+			<a href="{{site.baseurl}}{{page.url}}">
+				{{page.title}}
+			</a>
+		</div>        
+	{% endif %}
+
+	
 {% endfor %}
