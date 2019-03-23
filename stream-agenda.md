@@ -1,3 +1,8 @@
+---
+layout: default
+title: Stream Agenda
+---
+
 ## Companion System (UX)
 
 -   [ ] Add Query to get Companion List based on Owner Id
