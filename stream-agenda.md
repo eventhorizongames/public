@@ -1,16 +1,11 @@
-- Create Tech Demo of GDK
-- GDK Tech Demo Must Have's
-    - Companions 
-    - Skills
-    - Movement
-        - Player
-        - Companion(s)
-        - AI/NPC Agents
-    - AI/NPC Agents Types
-        - Attacker
-        - Healers
-            - Heals you and companion(s)
-        - Trainers 
-            - Get new skills
-            - Swap out skills
-            - Change party behavior
+## Companion System (UX)
+
+-   [ ] Add Query to get Companion List based on Owner Id
+-   [ ] Display "Captured" entities on Main Screen
+-   [ ] Show indicator of selected Companion
+-   [ ] Companion Skill Selection UX
+-   [ ] Add Max Companion "Capture" validation.
+
+## Bugs to Fix
+
+-   [ ] Need to emit new owner to clients.
