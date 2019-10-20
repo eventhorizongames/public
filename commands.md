@@ -10,3 +10,4 @@ title: CAnhorn Stream Commands
 -   !agenda - Long term goals for the Stream.
 -   !today - Currently working.
 -   !platform - Details about personally development game platform.
+-   !streamlabs - Checkout for Streamlabs bot command list: https://streamlabs.com/canhorn/cloudbot
